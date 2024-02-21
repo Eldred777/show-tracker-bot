@@ -1,2 +1,11 @@
 # show-tracker-bot
-Discord bot to track episodes for shows, including channel creation. 
+
+A Discord bot designed to... well, that part is up to you.
+
+## Usage
+
+FIXME
+
+## License
+
+FIXME
