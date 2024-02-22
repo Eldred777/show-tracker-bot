@@ -26,3 +26,5 @@ pom.xml.asc
 .lsp/.cache
 token
 .clj-kondo
+.calva
+scratch.clj
