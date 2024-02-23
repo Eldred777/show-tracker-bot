@@ -27,4 +27,6 @@ pom.xml.asc
 token
 .clj-kondo
 .calva
+
 scratch.clj
+db/

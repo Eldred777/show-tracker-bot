@@ -1,2 +1,7 @@
 {:playing "It's anime time 😋"
- :responses ["# I am atomic. https://tenor.com/view/cid-gif-27662072" "ツンデレサービス"]}
+ :responses ["ツンデレサービス"]
+ :atomic ["https://tenor.com/view/cid-gif-27662072",
+          "https://giphy.com/gifs/HIDIVE-anime-cid-the-eminence-in-shadow-season-2-RL1Jl8PnNDqz9hy83b"]
+ :help ["`help`: Displays a list of commands",
+        "`disconnect`: Stops the bot",
+        "`atomic`: 原発エネルギーを見せろ"]}
