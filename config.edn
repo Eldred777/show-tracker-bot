@@ -1,0 +1,14 @@
+{:responses ["ツンデレサービス"]
+ :atomic ["https://tenor.com/view/cid-gif-27662072",
+          "https://giphy.com/gifs/HIDIVE-anime-cid-the-eminence-in-shadow-season-2-RL1Jl8PnNDqz9hy83b"]
+ :help ["Commands are expected in the form `@bot-mention command-name [options]`"
+        "`help`: Displays a list of commands"
+        "`atomic`: 原発エネルギーを放つ"
+        "`watched`: Adds 1 to episode tracker for this channel."
+        "`watched [n]`: Adds `n` (integral) to episode tracker for this channel."
+        "`watched to [n]`: Sets episode tracker for this channel to `n` (integral)"
+        "`rename [name]`: Changes the internal name to `name`."
+        " "
+        "DEV COMMANDS"
+        "`disconnect`: Stops the bot."
+        "`dump`: Dump the current database as a message"]}
